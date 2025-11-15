@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  @apply font-sans bg-background-dark text-white transition-colors duration-300 ease-in-out;
+}
+
+body.light {
+  @apply bg-background-light text-gray-900;
+}
+
+a {
+  @apply transition-colors duration-200;
+}

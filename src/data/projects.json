@@ -1,0 +1,110 @@
+[
+  {
+    "id": "footfall-forecast",
+    "image": "preview.png",
+    "links": {
+      "github": "https://github.com/admhan",
+      "demo": ""
+    },
+    "translations": {
+      "fr": {
+        "title": "Prédiction d'affluence",
+        "description": "Modèle Random Forest pour anticiper l'affluence en boutique et optimiser les ressources."
+      },
+      "en": {
+        "title": "Footfall prediction",
+        "description": "Random Forest model to forecast in-store traffic and optimise staffing."
+      }
+    }
+  },
+  {
+    "id": "mcp-tool",
+    "image": "preview.png",
+    "links": {
+      "github": "https://github.com/admhan",
+      "demo": ""
+    },
+    "translations": {
+      "fr": {
+        "title": "MCP Tool",
+        "description": "Workflow FastAPI + Azure OpenAI + n8n pour orchestrer la création de campagnes média."
+      },
+      "en": {
+        "title": "MCP Tool",
+        "description": "FastAPI + Azure OpenAI + n8n workflow orchestrating media campaign creation."
+      }
+    }
+  },
+  {
+    "id": "llm-cv-parser",
+    "image": "preview.png",
+    "links": {
+      "github": "https://github.com/admhan",
+      "demo": ""
+    },
+    "translations": {
+      "fr": {
+        "title": "LLM CV Parser",
+        "description": "Utilisation de BERT pour parser des CV et matcher intelligemment profils et missions."
+      },
+      "en": {
+        "title": "LLM CV Parser",
+        "description": "BERT-based parsing to match candidate profiles with project requirements."
+      }
+    }
+  },
+  {
+    "id": "java-dag-game",
+    "image": "preview.png",
+    "links": {
+      "github": "https://github.com/admhan",
+      "demo": ""
+    },
+    "translations": {
+      "fr": {
+        "title": "Jeu Java DAG",
+        "description": "Jeu de gestion de graphes orientés acycliques pour explorer les algorithmes de chemins."
+      },
+      "en": {
+        "title": "Java DAG game",
+        "description": "Directed acyclic graph management game to explore path-finding algorithms."
+      }
+    }
+  },
+  {
+    "id": "rl-pacman",
+    "image": "preview.png",
+    "links": {
+      "github": "https://github.com/admhan",
+      "demo": ""
+    },
+    "translations": {
+      "fr": {
+        "title": "RL Pac-Man",
+        "description": "Agents d'apprentissage par renforcement pour optimiser la stratégie de Pac-Man."
+      },
+      "en": {
+        "title": "RL Pac-Man",
+        "description": "Reinforcement learning agents optimising Pac-Man strategy."
+      }
+    }
+  },
+  {
+    "id": "epidemic-modeling",
+    "image": "preview.png",
+    "links": {
+      "github": "https://github.com/admhan",
+      "demo": ""
+    },
+    "translations": {
+      "fr": {
+        "title": "Modélisation d'épidémie",
+        "description": "Simulation d'épidémies pour évaluer l'impact de scénarios de politiques publiques."
+      },
+      "en": {
+        "title": "Epidemic modelling",
+        "description": "Epidemic simulations to stress-test public policy scenarios."
+      }
+    }
+  }
+]
