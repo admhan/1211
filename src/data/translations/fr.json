@@ -1,0 +1,119 @@
+{
+  "navbar": {
+    "brand": "Adam Hannachi"
+  },
+  "theme": {
+    "light": "Activer le mode clair",
+    "dark": "Activer le mode sombre"
+  },
+  "language": {
+    "switch": "Changer de langue"
+  },
+  "sections": {
+    "about": "À propos",
+    "vision": "Vision",
+    "skills": "Compétences",
+    "experience": "Expériences",
+    "portfolio": "Portfolio",
+    "cv": "CV",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Construire des systèmes data fiables, utiles et élégants.",
+    "subtitle": "M1 Data & IA – Paris-Dauphine",
+    "description": "Je conçois des solutions data centrées sur la valeur métier, du prototype à l'industrialisation.",
+    "tags": ["Python", "Machine Learning", "FastAPI", "Data Science"],
+    "buttons": {
+      "cv": "Télécharger le CV",
+      "github": "GitHub",
+      "linkedin": "LinkedIn"
+    }
+  },
+  "about": {
+    "title": "À propos",
+    "cards": {
+      "who": {
+        "title": "Qui je suis",
+        "content": "Rigoureux, curieux et autonome, je suis passionné par la création de systèmes data utiles et élégants."
+      },
+      "goals": {
+        "title": "Objectifs",
+        "content": "Devenir Architecte Data / ML Engineer pour construire des solutions scalables et responsables."
+      }
+    }
+  },
+  "vision": {
+    "title": "Vision",
+    "cards": {
+      "vision": {
+        "title": "Vision",
+        "content": "Des systèmes data sobres, explicables et utiles, au service de la décision humaine."
+      },
+      "missions": {
+        "title": "Missions",
+        "content": "Modéliser, industrialiser, mesurer : des livrables actionnables et fiables."
+      }
+    }
+  },
+  "skills": {
+    "title": "Compétences",
+    "columns": {
+      "tech": {
+        "title": "Tech",
+        "items": ["Python", "C", "Java", "SQL", "FastAPI", "scikit-learn", "Pandas", "NumPy"]
+      },
+      "data": {
+        "title": "Data / ML",
+        "items": ["Régression", "PCA", "Random Forest", "XGBoost", "Feature Engineering"]
+      },
+      "soft": {
+        "title": "Soft Skills",
+        "items": ["Rigueur", "Autonomie", "Esprit d'équipe", "Pédagogie", "Éthique"]
+      }
+    }
+  },
+  "experience": {
+    "title": "Expériences",
+    "items": [
+      {
+        "title": "Sézane",
+        "role": "Missions data & analytics"
+      },
+      {
+        "title": "Plan.Net / House of Communication",
+        "role": "Développement MCP Tool (FastAPI + Azure OpenAI + n8n)"
+      },
+      {
+        "title": "Projet LLM (BERT)",
+        "role": "Parsing et matching intelligent"
+      },
+      {
+        "title": "Stage Atelier de Couture",
+        "role": "Bot, base clients et site logistique"
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "tabs": {
+      "completed": "Réalisés",
+      "wip": "Work in Progress"
+    }
+  },
+  "cvSection": {
+    "title": "Mon CV",
+    "description": "Parcourez mon CV directement en ligne ou téléchargez-le en un clic.",
+    "download": "Télécharger le CV",
+    "placeholderNotice": "Ajoutez votre fichier cv_Adam_Hannachi.pdf dans public/assets/ pour activer l'aperçu et le téléchargement."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Intéressé par une collaboration ou un stage ? Écrivez-moi.",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "madeWith": "© Adam Hannachi — Fait avec ❤️ et beaucoup de café."
+  }
+}

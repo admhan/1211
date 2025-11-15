@@ -1,0 +1,38 @@
+[
+  {
+    "id": "traffic-prediction",
+    "image": "preview.png",
+    "links": {
+      "github": "https://github.com/admhan",
+      "demo": ""
+    },
+    "translations": {
+      "fr": {
+        "title": "Prédiction de trafic",
+        "description": "Modèles séquentiels pour anticiper les flux de transport urbain en temps réel."
+      },
+      "en": {
+        "title": "Traffic prediction",
+        "description": "Sequential models forecasting live urban transport flows."
+      }
+    }
+  },
+  {
+    "id": "dataviz-dashboard",
+    "image": "preview.png",
+    "links": {
+      "github": "https://github.com/admhan",
+      "demo": ""
+    },
+    "translations": {
+      "fr": {
+        "title": "Dashboard DataViz",
+        "description": "Dashboard interactif pour suivre les performances d'équipes data."
+      },
+      "en": {
+        "title": "DataViz dashboard",
+        "description": "Interactive dashboard tracking delivery KPIs for data teams."
+      }
+    }
+  }
+]
